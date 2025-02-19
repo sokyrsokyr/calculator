@@ -96,4 +96,8 @@ p {
     margin: 10px 10px;
 }
 
+.numbers:nth-child(17) {
+    grid-column: span 2;
+}
+
 
